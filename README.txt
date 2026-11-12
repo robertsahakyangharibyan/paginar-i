@@ -1,1 +1,1 @@
-R&I Construcciones. Subir todos los archivos a la raíz del repositorio de GitHub. index.html es español, con selector ES/EN/CA. Fotos originales proporcionadas por el cliente. FormSubmit requiere validación de email y revisión legal de privacidad antes de publicación.
+R&I Construcciones — Archivos en la raíz listos para GitHub Pages. index.html = español; es.html, en.html, ca.html. Todas las fotos son originales suministradas. El formulario utiliza FormSubmit y necesita activación de la dirección receptora.
