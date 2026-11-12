@@ -1,5 +1,1 @@
-R&I Construcciones — versión 1 actualizada, archivos sueltos para GitHub Pages.
-Sube TODOS los archivos al directorio raíz del repositorio, incluyendo index.html, los HTML de idiomas y las imágenes JPG.
-index.html: español; en.html: inglés; ca.html: catalán.
-Activa GitHub Pages en Settings > Pages, Branch main, /(root).
-Formulario mediante FormSubmit: requiere confirmar email de activación en robert-reformas@outlook.es.
+R&I Construcciones. Subir todos los archivos a la raíz del repositorio de GitHub. index.html es español, con selector ES/EN/CA. Fotos originales proporcionadas por el cliente. FormSubmit requiere validación de email y revisión legal de privacidad antes de publicación.
